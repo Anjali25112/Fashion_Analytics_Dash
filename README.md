@@ -1,14 +1,8 @@
 This project analyzes the first-year performance of a newly launched fashion e-commerce store operating across seven major Indian states and six online sales channels (Ajio, Amazon, Flipkart, Meesho, Myntra, Nykaa).
 
-## Despite growing sales, the store faced declining profitability, driven by high return rates, low customer retention, and delivery inefficiencies.
+## Despite growing sales, a fashion e-commerce platform faces declining profitability . To develop data-driven strategies to reduce costs and increase profits.
 
-The aim of this project is to uncover actionable, data-driven insights to:
 
-Reduce costs and improve logistics.
-
-Increase profitability by addressing returns and cancellations.
-
-Strengthen customer retention and loyalty.
 
 Key Findings:
 - High shipped but low delivered orders — logistics and customer acceptance issues.
