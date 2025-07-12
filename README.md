@@ -1,3 +1,4 @@
+# Fashion E-commerce Sales Analysis
 This project analyzes the first-year performance of a newly launched fashion e-commerce store operating across seven major Indian states and six online sales channels (Ajio, Amazon, Flipkart, Meesho, Myntra, Nykaa).
 
 ## Despite growing sales, a fashion e-commerce platform faces declining profitability . To develop data-driven strategies to reduce costs and increase profits.
